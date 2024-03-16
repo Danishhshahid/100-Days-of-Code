@@ -1,0 +1,1 @@
+Refers to Question Number 1 print four lines, resulting number 8 on each line.
