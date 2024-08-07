@@ -1,7 +1,7 @@
 "use strict";
-let magicians = ["danish", 'saif', 'saqib'];
+let magicians = ["danish", "saif", "saqib"];
 function show_magicians(magicians) {
-    magicians.forEach(magician => {
+    magicians.forEach((magician) => {
         console.log(`${magician} is the magician`);
     });
 }

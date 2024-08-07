@@ -7,6 +7,6 @@ Guest.splice(1, 0, "Younis");
 Guest.push("Mehran");
 console.log(`New Guest List:\t ${Guest}`);
 //Printing the Message:
-Guest.forEach(Guest => {
+Guest.forEach((Guest) => {
     console.log(`Hello Dear ${Guest}, You are invited to the party`);
 });

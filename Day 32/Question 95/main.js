@@ -1,4 +1,5 @@
 "use strict";
+//Filtering the array
 function GreaterThan20(numbers) {
     return numbers.filter(numbers => numbers > 20);
 }

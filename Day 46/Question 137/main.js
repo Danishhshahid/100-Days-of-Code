@@ -7,6 +7,3 @@ try {
 catch (error) {
     console.log(`Error in myName Variable`);
 }
-finally {
-    console.log(`Finally Free`);
-}
